@@ -1,3 +1,6 @@
+Sudiksha Ale, Sudha Sura - Team Members
+
+
 # Finance AI Agent
 
 This project is a Finance AI Agent that uses OpenAI's GPT model to answer financial queries based on transaction and budget data. It dynamically processes data and provides user-friendly responses.
