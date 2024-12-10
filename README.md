@@ -47,6 +47,7 @@ Summarizes financial data context for GPT-4.
 Sends user queries and data to the Azure OpenAI API.
 Interactive Insights:
 Users receive real-time answers and insights based on their queries.
+
 Example Queries
 Query:
 "How much have I spent on Food?"
@@ -60,6 +61,7 @@ Query:
 "Am I exceeding any budgets?"
 Response:
 "No, you are within your budget for all categories."
+
 Key Features
 Dynamic Query Resolution:
 Handles real-time financial questions with high accuracy.
@@ -67,6 +69,7 @@ Customizable Data:
 Users can input their own transaction and budget records.
 Interactive Experience:
 Command-line interface for seamless user interaction.
+
 Future Enhancements
 Add a graphical user interface (GUI) for better usability.
 Implement memory for saving and retrieving user data.
