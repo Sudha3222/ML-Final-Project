@@ -22,7 +22,7 @@ Backend: Python (Pandas, Azure OpenAI API)
 How to Run
 1. Clone the Repository
 
-git clone https://github.com/your-repo-name/finance-analysis-agent.git  
+git clone https://github.com/Sudha3222/finance-analysis-agent.git  
 cd finance-analysis-agent  
 2. Install Python Dependencies
 
