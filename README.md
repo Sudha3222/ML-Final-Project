@@ -14,3 +14,6 @@ This project is a Finance AI Agent that uses OpenAI's GPT model to answer financ
 1.⁠ ⁠Clone the repository:
    ```bash
    git clone https://github.com/sudha3222/Finance-AI-Agent.git
+pip install -r requirements.txt
+python src/main.py
+
